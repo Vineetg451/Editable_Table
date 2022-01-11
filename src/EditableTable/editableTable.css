@@ -1,0 +1,16 @@
+.imgStyle {
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+}
+
+.error {
+  padding: 70px 0;
+  color: red;
+  align-items: center;
+  text-align: center;
+}
+
+.buttondiv {
+  display: flex;
+}
